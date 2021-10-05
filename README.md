@@ -17,3 +17,4 @@ have two cells populated at random with a 2 or 4.
 according to rules mentioned above
 4. Next it should select a random empty location in tiles and place a 2 or a 4
 5. Repeat steps 1 - 4 till one of the cell reaches 2048
+![output1](https://user-images.githubusercontent.com/55420574/135971626-b8553b02-ab59-43cc-a171-73d8de01824c.png)
